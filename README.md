@@ -57,6 +57,7 @@ This project was created as part of my university coursework. It implements a RE
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Mgilgil/BookstoreAPI.git
-  2. Open the project in your preferred Java EE 8–compatible IDE or application server (e.g., NetBeans).
-  3. Deploy and run the server.
-  4. Use Postman (or another REST client) to interact with endpoints such as: POST /customers/{id}/cart/items
+  2. Unzip and extract the files.
+  3. Open the project in your preferred Java EE 8–compatible IDE or application server (e.g., NetBeans).
+  4. Deploy and run the server.
+  5. Use Postman (or another REST client) to interact with endpoints such as: POST /customers/{id}/cart/items
